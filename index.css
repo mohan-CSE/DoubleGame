@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    padding: 20px;
+    background-color: #20262e;
+}
+
+.info {
+
+    background: #161F2C;
+    border-radius: 3px;
+
+
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 800px;
+    height: 85vh;
+    padding-top: 15px;
+
+}
+
+.info-header {
+
+    background: #0F1923;
+    border-radius: 3px;
+    font-size: 14px;
+    height: 43vh;
+    margin: 20px;
+    opacity: 0.4;
+
+}
+
+.info-header1 {
+
+    background: #161F2C;
+    border-radius: 3px;
+    font-size: 14px;
+    height: 10vh;
+    margin: 20px;
+    /* padding-left: 5px; */
+    padding-right: 5px;
+    
+
+
+}
+
+.b1 {
+    background-color: #F12C4C;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.b2 {
+    background-color: #262F3C;
+    text-align: center;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    margin-top: 15px;
+
+}
+.b3 {
+    background-color: #F12C4C;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    height: 120px;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 145px;
+    margin-bottom: 145px;
+}
+
+.b4 {
+    background-color: #262F3C;
+    text-align: center;
+    padding: 5px;
+    height: 120px;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 145px;
+    margin-bottom: 145px;
+
+}
+
+.vertical {
+    border-left: 4px solid white;
+    height: 180px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 110px;
+}
+
+#circle1 {
+    border-color: white;
+    height: 50px;
+    width: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    border-width: 3px;
+    border-radius: 50px;
+    border-style: solid;
+    color: white;
+}
+
+#circle {
+    border-color: white;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-width: 3px;
+    border-radius: 50px;
+    border-style: solid;
+    color: white;
+}
+
+.logo {
+    height: 25px;
+    width: 25px;
+}
+
+button {
+    height: 50px;
+    width: 190px;
+    border-width: 0px;
+    border-radius: 5px;
+    padding:5px;
+    margin:10px;
+
+}
